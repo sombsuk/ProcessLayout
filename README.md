@@ -2,7 +2,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cie.2025.111442-blue)](https://doi.org/10.1016/j.cie.2025.111442)
 [![Journal](https://img.shields.io/badge/Journal-Computers%20%26%20Industrial%20Engineering-orange)](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![GAMS](https://img.shields.io/badge/Code-GAMS-red)](https://www.gams.com/)
 [![Aspen Plus](https://img.shields.io/badge/Simulation-Aspen%20Plus-purple)](https://www.aspentech.com/)
 
@@ -124,7 +124,19 @@ If you use the code or simulation files in this repository, please cite:
 
 ## License
 
-The code in this repository is released under the **MIT License**. The associated publication is subject to the publisher's copyright. When using or adapting the materials, please cite the publication and respect the publisher's terms for the article itself.
+This repository is released under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license. This means you may:
+
+- ✅ **Share** — copy and redistribute the material in any medium or format
+- ✅ **Attribute** — give appropriate credit to the authors and cite the publication
+
+But you may **not**:
+
+- ❌ **NonCommercial** — use the material for commercial purposes without permission
+- ❌ **NoDerivatives** — distribute modified versions of the material
+
+For full license terms, see [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+The associated publication remains subject to the publisher's copyright. When using or adapting these materials, please cite the publication and respect the publisher's terms.
 
 ## Contact
 
